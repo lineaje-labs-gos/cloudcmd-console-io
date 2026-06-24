@@ -75,5 +75,15 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "overrides": {
+    "ws": ">=8.21.0",
+    "path-to-regexp": ">=0.1.13",
+    "socket.io-parser": ">=4.2.6"
+  },
+  "resolutions": {
+    "ws": ">=8.21.0",
+    "path-to-regexp": ">=0.1.13",
+    "socket.io-parser": ">=4.2.6"
   }
 }
